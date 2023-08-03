@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\P517_collections\P517_extentions\bin\Debug\net7.0\P517_extentions.exe
+C:\Users\HP\Desktop\P517_collections\P517_extentions\bin\Debug\net7.0\P517_extentions.deps.json
+C:\Users\HP\Desktop\P517_collections\P517_extentions\bin\Debug\net7.0\P517_extentions.runtimeconfig.json
+C:\Users\HP\Desktop\P517_collections\P517_extentions\bin\Debug\net7.0\P517_extentions.dll
+C:\Users\HP\Desktop\P517_collections\P517_extentions\bin\Debug\net7.0\P517_extentions.pdb
+C:\Users\HP\Desktop\P517_collections\P517_extentions\obj\Debug\net7.0\P517_extentions.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\P517_collections\P517_extentions\obj\Debug\net7.0\P517_extentions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\P517_collections\P517_extentions\obj\Debug\net7.0\P517_extentions.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\P517_collections\P517_extentions\obj\Debug\net7.0\P517_extentions.AssemblyInfo.cs
+C:\Users\HP\Desktop\P517_collections\P517_extentions\obj\Debug\net7.0\P517_extentions.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\P517_collections\P517_extentions\obj\Debug\net7.0\P517_extentions.dll
+C:\Users\HP\Desktop\P517_collections\P517_extentions\obj\Debug\net7.0\refint\P517_extentions.dll
+C:\Users\HP\Desktop\P517_collections\P517_extentions\obj\Debug\net7.0\P517_extentions.pdb
+C:\Users\HP\Desktop\P517_collections\P517_extentions\obj\Debug\net7.0\P517_extentions.genruntimeconfig.cache
+C:\Users\HP\Desktop\P517_collections\P517_extentions\obj\Debug\net7.0\ref\P517_extentions.dll
